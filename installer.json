@@ -6,10 +6,10 @@
       "MainApp": "https://github.com/nf-36/CharlieMurder/raw/refs/heads/main/archive/1.8/CharlieMurder.exe",
       "ChangeLog": [
         "Initial Release",
-        "Unlock All Bands",
-        "Unlimited Money",
-        "Pax Demo Mode",
-        "Custom Textures"
+        "Added Unlock All Bands",
+        "Added Unlimited Money",
+        "Added Pax Demo Mode",
+        "Added Custom Textures"
       ]
     }
   },
