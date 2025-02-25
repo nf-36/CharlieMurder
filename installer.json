@@ -1,9 +1,9 @@
 {
   "INIParser": "https://github.com/nf-36/CharlieMurder/raw/refs/heads/main/assets/INIFileParser.dll",
-  "Version": "1.8",
+  "Version": "1.17",
   "Versions": {
-    "1.8": {
-      "MainApp": "https://github.com/nf-36/CharlieMurder/raw/refs/heads/main/archive/1.8/CharlieMurder.exe",
+    "1.17": {
+      "MainApp": "https://github.com/nf-36/CharlieMurder/raw/refs/heads/main/archive/1.17/CharlieMurder.exe",
       "ChangeLog": [
         "Initial Release",
         "Added Unlock All Bands",
